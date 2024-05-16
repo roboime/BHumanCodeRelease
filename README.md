@@ -7,3 +7,5 @@ B-Human is a research project. We provide the software as is. We release it as a
 Before cloning this repository, you must read our [license terms](License.md) and the [instructions in our wiki](https://wiki.b-human.de/coderelease2023/getting-started/initial-setup/).
 
 Previous code releases are tagged with "coderelease&lt;year&gt;", where &lt;year&gt; is the year in which the code was released (starting with 2013).
+
+PARA BAIXAR O GAMECONTROLLER3 USAR A VERRSAO 1.0.0 https://github.com/RoboCup-SPL/GameController3/tree/v1.0.0
